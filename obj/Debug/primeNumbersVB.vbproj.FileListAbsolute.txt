@@ -1,0 +1,11 @@
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\bin\Debug\primeNumbersVB.exe.config
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\bin\Debug\primeNumbersVB.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\bin\Debug\primeNumbersVB.pdb
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\bin\Debug\primeNumbersVB.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\obj\Debug\primeNumbersVB.vbprojAssemblyReference.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\obj\Debug\primeNumbersVB.Resources.resources
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\obj\Debug\primeNumbersVB.vbproj.GenerateResource.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\obj\Debug\primeNumbersVB.vbproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\obj\Debug\primeNumbersVB.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\obj\Debug\primeNumbersVB.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\prvocila_vb_na_github\stuff\primeNumbersVB\obj\Debug\primeNumbersVB.pdb
